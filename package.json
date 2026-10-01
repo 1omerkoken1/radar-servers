@@ -1,0 +1,14 @@
+{
+  "name": "radar-server",
+  "version": "1.0.0",
+  "description": "Radar canli konum sunucusu",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.16.0",
+    "cors": "^2.8.5"
+  }
+}
